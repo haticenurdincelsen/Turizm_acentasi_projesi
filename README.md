@@ -1,5 +1,5 @@
 sql sorgularım model paketi içerisindedir.
-
+proje videosu :https://www.loom.com/share/236edd2c17d94f1e9f35f98fcd729039?sid=c69ea575-40cd-496f-b088-dadbe0906aea
 
 
 
